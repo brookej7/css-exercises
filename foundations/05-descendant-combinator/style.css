@@ -1,0 +1,11 @@
+/*Either of the below methods are succesful descendant combinators*/
+/*Would use only one (ie combine all properties) in real scenarios*/
+.container .text{
+    background-color: yellow;
+    font-size: 20px;
+}
+
+div p {
+    color: red;
+    text-align: center;
+}
